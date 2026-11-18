@@ -1,0 +1,13 @@
+node_modules
+.venv
+.tools
+dist
+dist-server
+data
+exports
+.env
+.bootstrap.log
+.bootstrap.pid
+ffmpeg
+ffprobe
+version.json
